@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+---
 
-First, run the development server:
+# 🎮 超绝最可爱天使酱的梦幻直播间 —— 网站构建计划
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🎉 欢迎各位宅宅们（也就是你啦）莅临本项目页面！这里是专为超天酱量身定制的小窝，一个致力于展现她无尽魅力与直播日常的地方！🌟
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🌸 项目简介
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+在这个小角落里，我们正使用 **Next.js** 强大的魔法，编织着一个既现代又充满幻想色彩的网页，目标是让每一位踏入这里的旅者，都能感受到如同置身于天使酱直播间的那份温馨与欢乐。✨
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### 🛠 技术栈
 
-## Learn More
+- **Next.js** —— 飞天遁地，动态渲染无所不能的前端神器！
+- **React** —— 构建互动小天地的基石，让每个组件都活灵活现！
+- **TypeScript** —— 类型安全，让代码如天使酱的笑容一般，无懈可击！
+- **styled-components** —— 为页面穿上定制的二次元装扮，时尚与功能并存！
 
-To learn more about Next.js, take a look at the following resources:
+## 🚀 快速开始
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+想要和超天酱一起直播？只需几步简单操作：
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+1. 📥 克隆本项目到本地：
+   ```sh
+   git clone https://github.com/Iria-Einzbern/KawaiiAngel.git
+   ```
 
-## Deploy on Vercel
+2. 🏃‍♂️ 进入项目目录：
+   ```sh
+   cd angel-kawaii
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. 🧙 安装依赖（记得先安装 [Node.js](https://nodejs.org/) 哦！）：
+   ```sh
+   npm install 或 yarn
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+4. 🎉 启动开发服务器，和天使酱面对面！
+   ```sh
+   npm run dev 或 yarn dev
+   ```
+
+## 🎨 设计理念
+
+灵感来源于《NeedyGirl Overdose》的世界观，我们力求在每一个细节中融入游戏的甜蜜与趣味，从色彩斑斓的界面到那些小彩蛋，都是为了让你仿佛真的成为了天使酱直播间的常驻嘉宾。
+
+## 💌 贡献指南
+
+🌟 超天酱的成长离不开大家的支持！如果你有任何创意、优化建议，或者发现了小Bug，请不要犹豫，打开 [Issue](https://github.com/Iria-Einzbern/KawaiiAngel/issues) 告诉我们，或者直接通过 Pull Request 加入改造计划！
+
+## 🔗 更多链接
+
+- [官方网站](https://nekoparaiten.game/) —— 探索《主播女孩重度依赖》的奇妙世界！
+- [Twitter](https://twitter.com/nekopara_en) —— 关注最新资讯，不错过天使酱的每一次心跳！
+
+---
+
+🌟 让我们一起，为超绝最可爱天使酱打造一个充满爱与梦想的网络小屋吧！期待在这趟旅程中与你相遇，共同见证她的成长与辉煌！💖
+
+---
