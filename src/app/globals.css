@@ -39,9 +39,9 @@
   --card-rgb: 180, 185, 188;
   --card-border-rgb: 131, 134, 135;
 
-  --Angle-blue: rgb(174,254,255);
-  --Angel-purple: rgb(209, 169, 241);
-  --Angel-pink: rgb(249, 153, 234);
+  --Angle-blue-rgb: 174, 254, 255;
+  --Angel-purple-rgb: 209, 169, 241;
+  --Angel-pink-rgb: 249, 153, 234;
 }
 
 @media (prefers-color-scheme: dark) {
